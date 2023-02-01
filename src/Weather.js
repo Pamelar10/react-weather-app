@@ -12,7 +12,7 @@ export default function Weather() {
     }
 
     if (ready) {
-         return (
+         return ( 
       <div className="Weather">
         <form>
           <div className="row">
