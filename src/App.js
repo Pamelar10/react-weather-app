@@ -10,17 +10,17 @@ function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          This project was coded by Pamela Rosales and is
+          This project was coded by Pamela Rosales and is 
           <a
             href="https://github.com/Pamelar10/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
-            {""}
+            {" "}
             open-sourced on GitHub
           </a>{" "}
-          {""}
-          and is {""}
+          {" "}
+          and is {" "}
           <a
             href="https://snazzy-daffodil-0cbb13.netlify.app/"
             target="_blank"

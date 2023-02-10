@@ -1,16 +1,18 @@
 
 .Weather {
-    font-family: Arial, sans-serif;
-    padding: 16px;
+    font-family: 'Courier New', Courier, monospace;
+     padding: 16px;
      color: rgb(13, 13, 13);
+     background-color: lavenderblush;
    
 }
 
 .Weather h1 {
-      font-size: 24px;
-    font-weight: 100;
+    font-size: 40px;
+    font-weight: 600;
     margin: 20px 0 0 0;
     line-height: 29px;
+    
 }
 
 .Weather ul{
